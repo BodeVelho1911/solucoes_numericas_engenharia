@@ -1,0 +1,21 @@
+# Ignorar o diretório venv
+venv/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurações específicas do editor
+.vscode/
+.idea/
+
+# Arquivos de cache do Jupyter
+.ipynb_checkpoints/
